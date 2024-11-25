@@ -1,5 +1,7 @@
 x   # Mindmap Generator and Summarizer
 
+Demo Link: https://nddgy4enmjtv9y4m5hvsfe.streamlit.app
+
 ## Project Overview
 This project leverages a Large Language Model (LLM) agent to generate summaries and mindmaps from provided content. The application is designed to extract data from a given URL, process it, and provide both textual and visual representations of the information.
 
