@@ -51,6 +51,15 @@ This project leverages a Large Language Model (LLM) agent to generate summaries 
 
 ---
 
+## Build
+- Download the dep from requirements.txt 
+- Add a .env file with the OPENAI/ or SambaNova Cloud API KEY 
+- Run
+ ```
+streamlit run inegrated_ui.py
+ ```
+---
+
 ## Future Enhancements
 - Support for additional data formats (e.g., PDFs, documents).  
 - Interactive mindmap editing.  
