@@ -1,4 +1,4 @@
-x   # Mindmap Generator and Summarizer
+# Mindmap Generator and Summarizer
 
 Demo Link: https://nddgy4enmjtv9y4m5hvsfe.streamlit.app
 
